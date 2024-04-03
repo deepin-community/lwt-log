@@ -1,0 +1,5 @@
+@OCamlStdlibDir@/lwt_log/META
+@OCamlStdlibDir@/lwt_log/*.cma
+DYN: @OCamlStdlibDir@/lwt_log/*.cmxs
+@OCamlStdlibDir@/lwt_log/core/*.cma
+DYN: @OCamlStdlibDir@/lwt_log/core/*.cmxs
