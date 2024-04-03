@@ -1,0 +1,14 @@
+@OCamlStdlibDir@/lwt_log/*opam*
+@OCamlStdlibDir@/lwt_log/*dune*
+@OCamlStdlibDir@/lwt_log/*.ml*
+@OCamlStdlibDir@/lwt_log/*.cmt*
+@OCamlStdlibDir@/lwt_log/*.cmi
+OPT: @OCamlStdlibDir@/lwt_log/*.cmx
+OPT: @OCamlStdlibDir@/lwt_log/*.cmxa
+OPT: @OCamlStdlibDir@/lwt_log/*.a
+@OCamlStdlibDir@/lwt_log/core/*.ml*
+@OCamlStdlibDir@/lwt_log/core/*.cmt*
+@OCamlStdlibDir@/lwt_log/core/*.cmi
+OPT: @OCamlStdlibDir@/lwt_log/core/*.cmx
+OPT: @OCamlStdlibDir@/lwt_log/core/*.cmxa
+OPT: @OCamlStdlibDir@/lwt_log/core/*.a
